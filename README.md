@@ -10,6 +10,8 @@ Categorized_tsne.csv - This is the output file from our K-Means algorithm withou
 
 data folder - this contains a CSV with the original data.
 
+Customer Classifiers.ppt - this is our PowerPoint presentation outlining our project. 
+
 Technical Documentation - This is our written report on our findings during this project.
 
 
