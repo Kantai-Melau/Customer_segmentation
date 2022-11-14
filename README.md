@@ -19,6 +19,8 @@ Technical Documentation - This is our written report on our findings during this
 
 For this project we looked at the dataset from Maven Technologies and applied clustering algorithms to group their 7000+ customers. This technique can be used by marketting teams to target groups of customers which suit their marketting strategies better.
 
-
-
 Note that we have used variables for accessing PostgreSQL. If you wish to replicate this project, these variable will need to be replaced with your own login credentials.
+
+Finally, the Tableau dashboards & visualisations/analysis of each cluster can be found here: https://public.tableau.com/app/profile/adna3400/viz/cluster_analysis_what/Demographics?publish=yes 
+
+The customer profiles that were generated can be found in the PowerPoint slides. 
